@@ -17,7 +17,6 @@ The follwing section describes the working of code.
 - Python 3.8 or higher
 - Streamlit workframe
 - MongoDb Atlas credentials
-pandas
 ## Introduction to snscrape
 Released on July 8, 2020, snscrape is a scraping tool for social networking services (SNS). It scrapes things like users, user profiles, hashtags, searches, threads, list posts and returns the discovered items without using Twitter’s API.
 
