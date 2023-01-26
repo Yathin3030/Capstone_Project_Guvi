@@ -4,7 +4,7 @@
 </div>
 Twitter’s strength is real-time. No other social platform comes close on this front. While Facebook is trying to compete and Snapchat offers a unique perspective on the theme, Twitter remains our best indicator of the wider pulse of the world and what’s happening within it. Therefore scraping Twitter data and analyzing it for predictions outputs crucial information.
 
-In this project streamlit a free and open source framework is used to create a GUI through which Twitter data is scraped, and uploaded to MongoDb database. The application also provides the end user to download the data in 'csv' and 'json' format. The application may come handy for Data-science projects.
+In this project streamlit a free and open source framework is used to create a GUI through which Twitter data is scraped, and uploaded to MongoDb database. The application also provides the end user to download the data in 'csv' and 'json' format. This application may come handy for Data-science projects.
 ## ✨ Features
 
 - 🔥 Upload scraped data to MongoDb database; Generate n number of data which will be automatically uploaded to MongoDb Database.
